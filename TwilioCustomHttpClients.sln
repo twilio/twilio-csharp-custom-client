@@ -5,7 +5,12 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomClientDotNet4x", "CustomClientDotNet4x\CustomClientDotNet4x.csproj", "{DE156992-F4CE-454C-BF0E-2E98421ED9DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomClientDotNetCore", "CustomClientDotNetCore\CustomClientDotNetCore.csproj", "{2315B3D0-96B5-4296-80FB-41F07F2F3111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomClientDotNetCore", "CustomClientDotNetCore\CustomClientDotNetCore.csproj", "{2315B3D0-96B5-4296-80FB-41F07F2F3111}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{84E69D48-3724-4D71-8E4D-3FC4D8844D01}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
